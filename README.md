@@ -1,7 +1,8 @@
-The idea
+# Imari software
+
 The general idea is to split a bitmap image to rectangles (cells), extract features from each one and then recreate the image replacing each cell with SVG element which is parameterized with the features of the bitmap cell.
 
-The Usage
+
 First you have to load the bitmap your SVG image will be mapped over.  This pic will be split into rectangles (or squares if Rows number is 0). On the right of the main panel there are number of options defining how and what to extract from each cell. A little experimentaion will help. After the extraction there are two ways you can go:
 
 1. Bitmap (tab) way, which will replace each cell with a symbol taken from a font. Usually graphics fonts (as Wingdings) are used. The options here are limited to the ones on the right. Use Apply button.
