@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="0.328in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 488 328" width="0.488in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.pen1 { stroke: none; }
+.brush2 { fill: rgb(0,0,0); }
+</style>
+<g>
+<polygon class="pen1 brush2" points="212,320 206,322 201,323 195,325 189,326 183,327 177,327 170,328 164,328 156,328 147,327 139,326 130,324 122,323 114,320 106,318 98,315 388,316 388,320 212,320"/>
+<polygon class="pen1 brush2" points="275,285 273,287 270,289 267,291 265,293 63,293 59,290 55,287 51,284 48,280 440,280 440,285 275,285"/>
+<polygon class="pen1 brush2" points="303,251 302,253 300,255 299,257 298,259 29,259 27,256 25,252 23,249 21,246 467,246 467,251 303,251"/>
+<polygon class="pen1 brush2" points="319,216 318,218 318,220 317,222 316,224 11,224 10,220 9,217 7,214 6,211 481,211 481,216 319,216"/>
+<polygon class="pen1 brush2" points="327,181 326,183 326,184 326,186 326,188 1,188 1,185 1,182 0,179 0,176 488,176 488,181 327,181"/>
+<polygon class="pen1 brush2" points="326,146 327,148 327,149 327,151 327,153 0,153 0,150 1,147 1,144 1,141 487,141 487,146 326,146"/>
+<polygon class="pen1 brush2" points="318,110 319,112 320,114 320,116 321,118 6,118 7,115 9,111 10,108 11,105 481,105 481,110 318,110"/>
+<polygon class="pen1 brush2" points="301,75 302,77 304,79 305,81 306,83 21,83 23,79 25,76 27,73 29,70 463,70 463,75 301,75"/>
+<polygon class="pen1 brush2" points="272,40 274,42 277,44 279,46 281,48 48,48 52,44 56,41 59,38 63,35 432,35 432,40 272,40"/>
+<polygon class="pen1 brush2" points="164,0 156,0 148,1 140,2 132,3 124,5 117,7 109,9 102,12 226,12 221,10 215,8 210,7 204,5 370,5 370,0 164,0"/>
+</g>
+</svg>

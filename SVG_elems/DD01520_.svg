@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="0.655in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 517 655" width="0.517in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.pen1 { stroke: none; }
+.brush2 { fill: rgb(0,0,0); }
+</style>
+<g>
+<polygon class="pen1 brush2" points="59,655 0,442 77,492 66,0 189,468 278,200 294,489 517,52 353,655 59,655"/>
+<polygon class="pen1 brush0" points="185,615 185,614 185,614 185,615"/>
+<polygon class="pen1 brush0" points="115,351 118,491 120,571 70,538 91,614 185,614 149,479 115,351"/>
+<polygon class="pen1 brush0" points="330,508 276,614 321,614 373,424 330,508"/>
+<polygon class="pen1 brush0" points="248,423 229,481 185,614 259,614 252,491 248,423"/>
+</g>
+</svg>

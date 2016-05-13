@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1in" height="1in" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd"
+     viewBox="0 0 1000 1000">
+ <g>
+
+  <path d="M63 60l244 196 0 -196 98 147 98 -196 98 343 49 -196 49 147 196 -245 -98 343 146 -49 -97 147 146 98 -195 49 146 245 -244 -196 0 294 -147 -245 -49 196 -49 -245 -293 294 98 -245 -147 0 98 -98 -196 -147 245 -49 -196 -392zm122 98m122 0m49 -25m98 -24m98 73m73 74m49 -25m123 -49m49 49m24 147m25 49m24 123m-24 73m-25 147m-49 25m-122 49m-74 24m-97 -24m-49 -25m-172 25m-97 24m-25 -122m-24 -49m-49 -123m24 -98m25 -220"/>
+
+ </g>
+</svg>

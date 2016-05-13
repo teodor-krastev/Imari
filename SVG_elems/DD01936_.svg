@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="0.915in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 999 915" width="0.999in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.pen1 { stroke: none; }
+.brush2 { fill: rgb(0,0,0); }
+</style>
+<g>
+<polygon class="pen1 brush2" points="479,574 293,773 414,527 150,566 151,537 380,436 66,344 303,330 0,257 458,247 269,74 297,58 489,142 780,0 640,158 922,196 725,243 740,266 756,289 773,311 789,333 806,355 823,376 841,397 858,418 876,439 894,460 911,481 929,501 947,522 964,543 982,564 999,585 759,426 796,662 648,479 408,915 479,574"/>
+</g>
+</svg>

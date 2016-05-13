@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20000303 Stylable//EN"
+  "http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303-stylable.dtd" [
+    <!ENTITY st0 "fill:#D90000;stroke:none;">
+    <!ENTITY st1 "fill:#FFFFFF;">
+    <!ENTITY st2 "font-family:'ArialMT';">
+    <!ENTITY st3 "fill:#CCCCCC;">
+    <!ENTITY st4 "font-size:10;">
+    <!ENTITY st5 "font-size:45;">
+    <!ENTITY st6 "font-family:'Critter';">
+]>
+<svg xml:space="preserve" width="4in" height="3in" viewBox="0 0 193.164 130.607" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg-20000303-stylable" zoomAndPan="magnify">
+<!-- Generator: Adobe Illustrator 8.0, SVG Export Plug-In 1.0x27 -->
+<!--Copyright 1999 Adobe Systems. You may copy, modify, and distribute this file, if you include this notice & do not charge for the distribution. This file is provided "AS-IS" without warranties of any kind, including any implied warranties.-->
+<style type="text/css">
+<![CDATA[
+		@font-face {font-family:'Critter';src:url(Critter_fx.cef)}
+]]>
+</style>
+	<defs>
+		<filter id="MyFilter" filterUnits="userSpaceOnUse">
+			<!--Copyright 1999 Adobe Systems. You may copy, modify, and distribute this file, if you include this notice & do not charge for the distribution. This file is provided "AS-IS" without warranties of any kind, including any implied warranties.-->
+			<feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
+			<feOffset in="blur" dx="4" dy="4" result="offsetBlurredAlpha"/>
+			<feSpecularLighting in="blur" surfaceScale="5" specularConstant="0.9" specularExponent="20" lightColor="white" result="specularOut">
+				<feDistantLight azimuth="135" elevation="30"/>
+			</feSpecularLighting>
+			<feComposite in="specularOut" in2="SourceAlpha" operator="in" result="specularOut"/>
+			<feComposite in="SourceGraphic" in2="specularOut" operator="arithmetic" k1="0" k2="1" k3="1" k4="0" result="litPaint"/>
+			<feMerge>
+				<feMergeNode in="offsetBlurredAlpha"/>
+				<feMergeNode in="litPaint"/>
+			</feMerge>
+		</filter>
+	</defs>
+<g id="label">
+	<path d="M193.039 130.482H0.125V0.125h192.914v130.357z" style="fill:#CCCCCC;"/>
+	<path d="M63.693 112.739c0.73 0 1.336 0.24 1.815 0.719s0.72 1.086 0.72 1.822c0 0.859-0.279 1.563-0.836 2.107c-0.557 0.547-1.274 0.82-2.152 0.82c-1.025 0-1.826-0.363-2.4-1.088c-0.574-0.727-0.861-1.736-0.861-3.029c0-1.416 0.326-2.516 0.98-3.301c0.653-0.783 1.572-1.176 2.756-1.176c0.282 0 0.596 0.025 0.94 0.076s0.724 0.129 1.136 0.236v1.219c-0.747-0.354-1.416-0.531-2.005-0.531c-0.648 0-1.153 0.268-1.516 0.805c-0.361 0.537-0.542 1.287-0.542 2.252c0.509-0.621 1.163-0.932 1.965-0.932zM 58.599 118.493c1.268 1.268 2.801 1.902 4.599 1.902s3.33-0.635 4.598-1.902s1.902-2.801 1.902-4.598c0-1.799-0.635-3.33-1.902-4.598s-2.8-1.902-4.598-1.902s-3.331 0.635-4.599 1.902s-1.901 2.799-1.901 4.598c0 1.797 0.634 3.33 1.901 4.598zM 63.217 113.739c-0.402 0-0.741 0.148-1.015 0.447c-0.274 0.297-0.411 0.664-0.411 1.102c0 0.572 0.134 1.035 0.402 1.389c0.268 0.354 0.617 0.531 1.049 0.531c0.887 0 1.33-0.557 1.33-1.672c0-1.197-0.452-1.797-1.355-1.797 z"/>
+	<g>
+		<text x="73.107" y="116.431" style="font-family:'ArialMT';font-size:10;" startOffset="0">Merge effects.</text>
+	</g>
+</g><!-- label -->
+<g id="image" style="filter:url(#MyFilter)">
+	<g>
+		<path style="fill:#D90000" d="M157.74 57.855c0-12.317-14.518-22.301-32.426-22.301c-2.047 0-4.047 0.136-5.986 0.385l6.293-7.856l-17.168 7.967l2.861-10.392L99.857 36.814l-4.544-18.582l-4.543 18.582L79.313 25.658l2.861 10.392l-17.167-7.967l6.292 7.856c-1.941-0.249-3.94-0.385-5.986-0.385c-17.908 0-32.426 9.983-32.426 22.301c0 12.314 14.518 22.301 32.426 22.301c1.893 0 3.744-0.119 5.548-0.333l-5.854 7.312l17.167-7.969l-2.861 10.393l11.458-11.156l4.543 18.58l4.544-18.58l11.457 11.156l-2.861-10.393l17.168 7.969l-5.855-7.312c1.805 0.214 3.656 0.333 5.549 0.333c17.908 0 32.426-9.986 32.426-22.301z"/>
+		<path style="fill:#D90000" d="M177.814 57.914c0-15.249-19.188-27.61-42.854-27.61c-2.705 0-5.346 0.169-7.91 0.478l8.316-9.729l-22.688 9.865l3.781-12.868l-15.143 13.813L95.313 8.857l-6.004 23.006L74.167 18.049l3.782 12.868l-22.687-9.865l8.316 9.729c-2.565-0.309-5.207-0.478-7.911-0.478c-23.667 0-42.854 12.361-42.854 27.61S32 85.524 55.667 85.524c2.501 0 4.948-0.146 7.332-0.411l-7.737 9.051l22.687-9.865l-3.782 12.868l15.142-13.813l6.004 23.004l6.005-23.004l15.143 13.813l-3.781-12.868l22.688 9.865l-7.738-9.051c2.383 0.265 4.83 0.411 7.332 0.411c23.666 0 42.854-12.361 42.854-27.61zM 123.848 82.07l6.832 8.051l-20.033-8.774l3.34 11.445l-13.371-12.286l-5.302 20.461l-5.302-20.461l-13.37 12.286l3.338-11.445l-20.033 8.774l6.832-8.051c-2.104 0.236-4.265 0.366-6.474 0.366c-20.897 0-37.838-10.995-37.838-24.557c0-13.563 16.941-24.558 37.838-24.558c2.388 0 4.721 0.15 6.986 0.425l-7.343-8.651l20.033 8.773l-3.338-11.444l13.37 12.285l5.302-20.461 l5.302 20.461l13.371-12.285l-3.34 11.444l20.033-8.773l-7.344 8.651c2.266-0.274 4.598-0.425 6.986-0.425c20.898 0 37.838 10.995 37.838 24.558c0 13.562-16.939 24.557-37.838 24.557c-2.209 0-4.369-0.13-6.475-0.366z"/>
+		<g>
+			<text x="47.839" y="73.155" style="fill:#FFFFFF;font-size:45;font-family:'Critter';" startOffset="0">SVG</text>
+		</g>
+	</g>
+</g><!-- image -->
+</svg>

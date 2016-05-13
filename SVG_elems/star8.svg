@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1in" height="1in" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd"
+     viewBox="0 0 1000 1000">
+ <g>
+
+  <path d="M498 8l101 244 244 -101 -101 245 244 101 -244 101 101 245 -244 -102 -101 245 -101 -245 -243 102 101 -245 -244 -101 244 -101 -101 -245 243 101 101 -244zm51 122m172 72m72 71m71 173m0 102m-71 172m-72 72m-172 72m-101 0m-172 -72m-72 -72m-71 -172m0 -102m71 -173m72 -71m172 -72"/>
+
+ </g>
+</svg>

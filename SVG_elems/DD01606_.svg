@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="0.499in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 500 499" width="0.5in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.pen1 { stroke: none; }
+.brush2 { fill: rgb(0,0,0); }
+</style>
+<g>
+<polygon class="pen1 brush2" points="500,0 500,499 0,499 0,0 500,0"/>
+<polygon class="pen1 brush0" points="37,358 49,358 143,358 148,358 151,354 242,261 250,252 242,244 151,151 148,148 143,148 49,148 37,148 37,159 37,347 37,358 61,335 61,334 61,173 61,171 63,171 138,171 217,252 217,253 216,254 138,335 137,335 136,335 62,335 61,335 37,358"/>
+<polygon class="pen1 brush0" points="0,178 47,178 47,154 0,154 0,178"/>
+<polygon class="pen1 brush0" points="0,234 47,234 47,210 0,210 0,234"/>
+<polygon class="pen1 brush0" points="0,290 47,290 47,267 0,267 0,290"/>
+<polygon class="pen1 brush0" points="0,346 47,346 47,323 0,323 0,346"/>
+<polygon class="pen1 brush0" points="440,335 439,335 364,335 363,335 363,335 285,254 284,253 285,252 363,171 438,171 440,171 440,173 440,334 440,335 464,358 464,347 464,159 464,148 452,148 358,148 353,148 350,151 260,244 252,252 259,261 350,354 353,358 358,358 452,358 464,358 440,335"/>
+<polygon class="pen1 brush0" points="500,178 454,178 454,154 500,154 500,178"/>
+<polygon class="pen1 brush0" points="500,234 454,234 454,210 500,210 500,234"/>
+<polygon class="pen1 brush0" points="500,290 454,290 454,267 500,267 500,290"/>
+<polygon class="pen1 brush0" points="500,346 454,346 454,323 500,323 500,346"/>
+<polygon class="pen1 brush0" points="136,279 147,277 156,271 162,263 164,252 162,241 156,233 147,227 136,225 125,227 117,233 111,241 109,252 111,263 117,271 125,277 136,279"/>
+<polygon class="pen1 brush0" points="362,279 373,277 381,271 387,263 389,252 387,241 381,233 373,227 362,225 351,227 343,233 337,241 335,252 337,263 343,271 351,277 362,279"/>
+<polygon class="pen1 brush0" points="277,365 275,354 269,346 261,340 250,338 239,340 231,346 225,354 223,365 225,376 231,384 239,390 250,392 261,390 269,384 275,376 277,365"/>
+<polygon class="pen1 brush0" points="277,139 275,128 269,120 261,114 250,112 239,114 231,120 225,128 223,139 225,150 231,158 239,164 250,166 261,164 269,158 275,150 277,139"/>
+</g>
+</svg>

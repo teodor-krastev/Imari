@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="0.402in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 500 402" width="0.5in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.pen1 { stroke: none; }
+.brush2 { fill: rgb(0,0,0); }
+</style>
+<g>
+<polygon class="pen1 brush2" points="466,101 472,101 478,100 483,98 488,95 492,91 495,86 497,81 498,75 497,63 492,53 484,46 473,42 467,42 461,43 456,45 451,48 447,52 444,57 441,62 440,68 441,80 446,90 455,97 466,101"/>
+<polygon class="pen1 brush2" points="28,400 34,400 40,399 45,397 50,394 54,390 57,385 60,380 61,374 60,362 55,352 46,345 35,342 29,342 23,343 18,345 13,348 9,352 6,356 3,361 2,367 3,379 8,389 17,396 28,400"/>
+<polygon class="pen1 brush2" points="40,327 40,322 40,313 41,304 42,297 21,296 20,302 20,310 20,319 20,328 40,327"/>
+<polygon class="pen1 brush2" points="45,269 23,265 24,259 25,250 26,240 28,232 49,238 49,242 47,251 46,262 45,269"/>
+<polygon class="pen1 brush2" points="56,210 36,202 37,197 40,188 43,179 46,172 64,179 63,183 60,191 58,202 56,210"/>
+<polygon class="pen1 brush2" points="92,125 75,114 70,120 65,128 61,137 58,143 76,152 79,148 84,140 88,131 92,125"/>
+<polygon class="pen1 brush2" points="131,79 117,64 112,68 105,75 99,81 93,87 109,102 113,98 119,91 126,84 131,79"/>
+<polygon class="pen1 brush2" points="143,44 148,40 155,35 163,31 170,27 180,46 174,48 167,52 160,57 153,62 143,44"/>
+<polygon class="pen1 brush2" points="201,15 203,14 206,13 210,12 215,10 220,9 224,8 229,7 232,6 236,26 230,27 222,29 214,32 207,34 201,15"/>
+<polygon class="pen1 brush2" points="265,21 263,1 267,1 271,0 276,0 281,0 285,0 289,0 293,1 295,1 294,21 289,21 281,21 272,21 265,21"/>
+<polygon class="pen1 brush2" points="327,2 330,2 334,3 338,3 343,4 347,5 352,7 356,8 359,9 355,30 352,29 348,28 343,27 339,26 334,24 330,23 326,23 324,22 327,2"/>
+<polygon class="pen1 brush2" points="391,17 394,18 397,19 402,21 406,23 411,25 415,27 419,29 421,31 411,48 406,46 399,43 390,40 383,37 391,17"/>
+</g>
+</svg>

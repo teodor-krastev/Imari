@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill-rule="evenodd" height="0.552in" preserveAspectRatio="none" stroke-linecap="round" viewBox="0 0 683 552" width="0.683in">
+<style type="text/css">
+.brush0 { fill: rgb(255,255,255); }
+.pen0 { stroke: rgb(0,0,0); stroke-width: 1; stroke-linejoin: round; }
+.brush1 { fill: none; }
+.pen1 { stroke: none; }
+.brush2 { fill: rgb(0,0,0); }
+</style>
+<g>
+<polygon class="pen1 brush2" points="0,552 342,82 683,552 0,552"/>
+<polygon class="pen1 brush0" points="343,353 332,354 321,356 311,360 302,365 293,371 286,378 279,386 273,395 279,404 286,412 293,420 302,426 311,431 321,435 332,437 343,438 354,437 365,435 375,431 384,426 393,420 400,412 407,404 412,395 407,386 400,378 393,371 384,365 375,360 365,356 354,354 343,353"/>
+<polygon class="pen1 brush0" points="342,222 333,223 325,225 317,228 310,233 303,238 298,244 293,251 290,259 293,267 298,274 303,280 310,286 317,290 325,293 333,295 342,296 351,295 359,293 367,290 374,286 380,280 385,274 389,267 393,259 389,251 385,244 380,238 374,233 367,228 359,225 351,223 342,222"/>
+<polygon class="pen1 brush2" points="342,54 331,52 323,46 317,38 315,27 317,16 323,8 331,2 342,0 353,2 361,8 367,16 369,27 367,38 361,46 353,52 342,54"/>
+</g>
+</svg>

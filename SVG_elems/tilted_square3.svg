@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1in" height="1in" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd"
+     viewBox="0 0 1000 1000">
+ <g>
+
+   <path d="M496 986l433 -489 -488 434 55 55z"/>
+   <path d="M37 529l23 -32 -39 16 16 16z"/>
+   <path d="M439 929l382 -432 -432 383 50 49z"/>
+   <path d="M385 874l320 -371 -367 325 47 46z"/>
+   <path d="M328 819l270 -316 -313 270 43 46z"/>
+   <path d="M271 759l221 -258 -262 219 41 39z"/>
+   <path d="M212 702l168 -199 -203 166 35 33z"/>
+   <path d="M155 647l118 -146 -150 113 32 33z"/>
+   <path d="M96 588l69 -87 -97 59 28 28z"/>
+   <path d="M498 5l-436 490 489 -437 -53 -53z"/>
+   <path d="M955 464l-24 31 40 -15 -16 -16z"/>
+   <path d="M555 62l-384 433 431 -384 -47 -49z"/>
+   <path d="M606 115l-321 374 369 -327 -48 -47z"/>
+   <path d="M661 170l-266 319 312 -274 -46 -45z"/>
+   <path d="M721 229l-219 262 260 -220 -41 -42z"/>
+   <path d="M780 288l-170 201 205 -165 -35 -36z"/>
+   <path d="M837 346l-118 145 149 -114 -31 -31z"/>
+   <path d="M896 405l-69 86 95 -61 -26 -25z"/>
+
+ </g>
+</svg>
